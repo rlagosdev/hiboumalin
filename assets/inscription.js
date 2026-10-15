@@ -1,4 +1,4 @@
-// Hibou Malin — formulaires d'inscription (liste d'attente Brevo) et menu mobile.
+// Houlou Débranché — formulaires d'inscription (liste d'attente Brevo) et menu mobile.
 (function () {
   var ACTION = "https://46c1f093.sibforms.com/serve/MUIFADWjOSKsRt3lbGfNRTUiLQ0XtbbQDfXmL2wFoU2KcZzVWgUjFb0xtJ0tcVdWN2tcPtShggDcm9NTptMwARPsxnq83e7XQ7tbKDgbhS6vGy6APxUDMAqIdIsLOHONFhVtC5BxHcR6DsPNS08mreYyTp4mVaHSZpiaCZRc6kHPrhxmZhoJgYGP0yE9ub9_Yf3i_mIRHePlMXqUwQ==";
   var KEY = "hm_source";
