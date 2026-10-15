@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Générateur du site hiboumalin.fr (statique, sans dépendance).
+"""Générateur du site houlou.fr (statique, sans dépendance).
 
 Usage : python3 _source/build.py   (depuis la racine du dépôt)
 Écrit les pages HTML à la racine du dépôt (servie par GitHub Pages).
@@ -10,8 +10,8 @@ Tous les boutons « Rejoindre la liste d'attente » deviennent alors « Installe
 import html, json, os, datetime
 
 APP_OUVERTE = False
-APP_URL = "https://app.hiboumalin.fr/"
-SITE = "https://hiboumalin.fr"
+APP_URL = "https://app.houlou.fr/"
+SITE = "https://houlou.fr"
 YOUTUBE = "https://www.youtube.com/@HoulouDebranche"
 CONTACT = "contact@hiboumalin.fr"
 
