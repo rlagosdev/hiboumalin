@@ -12,7 +12,7 @@ import html, json, os, datetime
 APP_OUVERTE = False
 APP_URL = "https://app.hiboumalin.fr/"
 SITE = "https://hiboumalin.fr"
-YOUTUBE = "https://www.youtube.com/@HibouMalinJeuxsansecran"
+YOUTUBE = "https://www.youtube.com/@HoulouDebranche"
 CONTACT = "contact@hiboumalin.fr"
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
