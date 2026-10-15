@@ -13,7 +13,7 @@ APP_OUVERTE = False
 APP_URL = "https://app.houlou.fr/"
 SITE = "https://houlou.fr"
 YOUTUBE = "https://www.youtube.com/@HoulouDebranche"
-CONTACT = "contact@hiboumalin.fr"
+CONTACT = "contact@houlou.fr"
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA = json.load(open(os.path.join(ROOT, "_source", "jeux.json"), encoding="utf-8"))

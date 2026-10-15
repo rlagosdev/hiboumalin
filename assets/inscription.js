@@ -48,7 +48,7 @@
         })
         .catch(function () {
           btn.disabled = false; btn.textContent = label;
-          show("err", "L'envoi n'a pas fonctionné. Vérifiez votre connexion et réessayez, ou écrivez-nous à contact@hiboumalin.fr.");
+          show("err", "L'envoi n'a pas fonctionné. Vérifiez votre connexion et réessayez, ou écrivez-nous à contact@houlou.fr.");
         });
     });
   });
